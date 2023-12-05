@@ -1,7 +1,3 @@
-# Zero to Mastery: Complete Angular Developer in 2023
-
-This repo contains the source files to accompany the Angular course found at [zerotomastery.io](https://zerotomastery.io/courses/learn-angular/).
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
